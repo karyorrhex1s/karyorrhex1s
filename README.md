@@ -1,1 +1,1 @@
-Aspiring security researcher. Advice or criticisms welcome.
+Aspiring security researcher and threat analyst.
