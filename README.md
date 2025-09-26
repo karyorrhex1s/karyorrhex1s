@@ -1,1 +1,5 @@
-macOS DFIR/Threat Detection Engineering/Security Research
+macOS {
+    DFIR;
+    Threat Detection Engineering;
+    Offensive Security(Research,Engineering)
+}
