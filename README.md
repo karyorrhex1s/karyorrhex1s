@@ -1,1 +1,1 @@
-Aspiring security researcher and threat analyst.
+macOS DFIR/Threat Detection Engineering/Security Research
